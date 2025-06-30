@@ -1,4 +1,4 @@
-![Screenshot](https://codingwithrk.com/public/package-banner/rk-country-flags.png)
+![Screenshot](https://codingwithrk.com/package-banner/rk-country-flags.png)
 
 <p align="center">
     <a>
